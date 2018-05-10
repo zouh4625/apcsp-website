@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Im file B"
-
+echo "Im file B 2" 
